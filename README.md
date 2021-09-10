@@ -19,4 +19,4 @@ $ git clone https://github.com/AkinXD/cmbf
 
 $ cd cmbf
 
-$ python2 cmbf.py
+$ python2 cmbf.pyc
